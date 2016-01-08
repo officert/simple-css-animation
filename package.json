@@ -1,0 +1,25 @@
+{
+  "name": "simple-css-animation",
+  "version": "0.0.1",
+  "description": "css animation mixins for less",
+  "main": "animations.less",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officert/simple-css-animation.git"
+  },
+  "keywords": [
+    "css",
+    "animations",
+    "less",
+    "bootstrap"
+  ],
+  "author": "Tim Officer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/officert/simple-css-animation/issues"
+  },
+  "homepage": "https://github.com/officert/simple-css-animation#readme"
+}

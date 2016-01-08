@@ -1,0 +1,25 @@
+{
+  "name": "simple-css-animation",
+  "homepage": "https://github.com/officert/simple-css-animation",
+  "authors": [
+    "Tim Officer <timothyofficer@gmail.com>"
+  ],
+  "description": "css animation mixins for less",
+  "main": "animations.less",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "css",
+    "animations",
+    "less",
+    "mixins",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
